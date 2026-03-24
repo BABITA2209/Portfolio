@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background: #0f172a;
+    color: white;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 50px;
+    background: #020617;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+.home {
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.buttons a {
+    padding: 10px 20px;
+    background: #2563eb;
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+section {
+    padding: 50px;
+    text-align: center;
+}
+
+.skill-box {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.skill-box div {
+    background: #1e293b;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.project-card {
+    background: #1e293b;
+    margin: 10px auto;
+    padding: 20px;
+    width: 60%;
+    border-radius: 10px;
+}
