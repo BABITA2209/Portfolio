@@ -1,0 +1,92 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Babita Kumari | Data Scientist</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<!-- NAVBAR -->
+<nav>
+    <h2>Babita</h2>
+    <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+    </ul>
+</nav>
+
+<!-- HOME -->
+<section id="home" class="home">
+    <h1>Hi, I'm Babita 👩‍💻</h1>
+    <h2>Aspiring Data Scientist</h2>
+    <p>Building real-world Machine Learning & Data Analysis projects</p>
+
+    <div class="buttons">
+        <a href="https://github.com/BABITA2209" target="_blank">GitHub</a>
+        <a href="https://www.linkedin.com/in/babita-kumari-85980b217" target="_blank">LinkedIn</a>
+    </div>
+</section>
+
+<!-- ABOUT -->
+<section id="about">
+    <h2>About Me</h2>
+    <p>
+        I am a Data Science enthusiast with 3+ years of experience in ERP consulting.
+        Skilled in Python, SQL, and Machine Learning, I focus on solving real-world business problems using data.
+    </p>
+</section>
+
+<!-- SKILLS -->
+<section id="skills">
+    <h2>Skills</h2>
+    <div class="skill-box">
+        <div>Python</div>
+        <div>SQL</div>
+        <div>Machine Learning</div>
+        <div>Pandas</div>
+        <div>NumPy</div>
+        <div>Power BI</div>
+    </div>
+</section>
+
+<!-- PROJECTS -->
+<section id="projects">
+    <h2>Projects</h2>
+
+    <div class="project-card">
+        <h3>Customer Churn Prediction</h3>
+        <p>ML model to predict customer churn with Streamlit deployment</p>
+    </div>
+
+    <div class="project-card">
+        <h3>House Price Prediction</h3>
+        <p>Regression model for real estate price prediction</p>
+    </div>
+
+    <div class="project-card">
+        <h3>Sales Data Analysis</h3>
+        <p>EDA and business insights using Python</p>
+    </div>
+
+</section>
+
+<!-- CONTACT -->
+<section id="contact">
+    <h2>Contact Me</h2>
+    <p>Email: kumaribabita2209@gmail.com</p>
+</section>
+
+<footer>
+    <p>© 2026 Babita Kumari</p>
+</footer>
+
+</body>
+</html>
